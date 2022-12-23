@@ -13,3 +13,4 @@ pysyncobj>=0.3.8
 cryptography>=1.4
 psutil>=2.0.0
 ydiff>=1.2.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
